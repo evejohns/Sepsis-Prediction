@@ -1,3 +1,2 @@
 # Sepsis-Prediction
-
-http://datascience.kp.org/practice/competition/43/
+https://www.physionet.org/content/challenge-2019/1.0.0/
